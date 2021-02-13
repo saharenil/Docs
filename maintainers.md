@@ -9,3 +9,4 @@ Poco F2 Pro (lmi    )          |  AbdullahPS   | AbdullahPS | t6pal
 Moto G (5S) Plus (sanders)     |  Lucas Ponez  | lucasponez | pintos
 Redmi Note 7 (Lavender)        |  Murad Zeynal | LinuxAlien | JustAlien
 Moto G7 (river)                |  VitorSSSouza | GhostGinkgo| VitorSSSouza
+Redmi Note 5 Pro ( Whyred)     | Baba Sahare   | saharenil  | babasahare72
